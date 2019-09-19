@@ -1,0 +1,149 @@
+<resources>
+    <string name="app_name" translatable="false">School</string>
+
+
+    <string name="hospitalsinvillages" translatable="false">HOSPITALS in Villages</string>
+    <string name="hospital" translatable="false">Hospital</string>
+    <string name="text_hs_address" translatable="false">Address:- Aditya Birla Hospital Marg, Thergaon, Pimpri-Chinchwad, Maharashtra 411033</string>
+    <string name="text_HS_contact" translatable="false">Contact No.:-020 3071 7500</string>
+    <string name="Hos_info" translatable="false">(1)Aditya Birla Memorial Hospital (ABMH) is a multi-speciality medical centre located at Pimpri-Chinchwad in the west Indian state of Maharashtra.
+ The hospital is named for the late Mr. Aditya Birla. Mrs. Rajashree Birla, chairperson of the Aditya Birla Foundation which is funding the medical centre,
+ is steering this project.It is Maharashtras First Joint Commission International (JCI) and National Accreditation Board for Hospital (NABH) accredited hospital,
+ and also Indias First HACCP and ISO: 22000:2005 certified hospital. </string>
+
+
+    <string name="todo" translatable="false">TODO</string>
+    <string name="schoolsinvillages" translatable="false">SCHOOLS in Villages</string>
+
+    <!--1st School Done-->
+    <string name="string_title_school1">जिल्हा परिषद प्राथमिक शाळा</string>
+    <string name="string_principal_school1"><br>मुख्याध्यापक:-श्री विजय शंकरराव चव्हाण \n</br><br>मोबाइल नंबर- 9822118266</br></string>
+    <string name="string_principalNo_school1">9822118266</string><!--मोबाइल नंबर- -->
+    <string name="string_address_school1">स्थान : नवलाख उंब्रे</string>
+    <string name="string_description_school1"><br>शिक्षक : \n</br>
+<br>\n  1:श्रीमती संगीता पांडुरंग गुजर \n</br>
+<br>    मोबाइल नंबर-9923326012 \n</br>
+<br>\n  2:श्रीमती शोभा नामदेव ठोसर \n</br>
+<br>    मोबाइल नंबर-9765056485 \n</br>
+<br>\n  3:श्रीमती वैशाली मधुकर पवार \n</br>
+<br>    मोबाइल नंबर-9923753535 \n</br>
+<br>\n  4:श्रीमती वंदना ज्ञानेश्वर आलहट \n</br>
+<br>    मोबाइल नंबर-9822617372 \n</br>
+<br>\n  5:श्री राजेंद्र शामराव कठरे \n</br>
+<br>    मोबाइल नंबर-9175838362 \n</br>
+<br>\n  6:सौ नीलम लक्ष्मण मखर \n</br>
+<br>    मोबाइल नंबर-9766070068 \n</br>
+<br>\n  7:सौ मिना मारुती जगताप \n</br>
+<br>    मोबाइल नंबर-9850886788 \n</br>
+<br>\n  8:सौ सोनाली मुकुंद तनपुरे \n</br>
+<br>    मोबाइल नंबर-9763214320 \n</br>
+<br>\n  9:सौ अनिता अशोक बारवे\n</br>
+<br>    मोबाइल नंबर-9922295194 \n</br>
+<br>\n  10:सौ स्वप्नाली दिनेश नाईक \n</br>
+<br>    मोबाइल नंबर-9881737249 \n</br>
+<br>\n  11:श्रीमती स्वर्णा महादेव साठे \n</br>
+<br>    मोबाइल नंबर-8975735545 \n</br>
+</string>
+
+    <!--2nd School Done-->
+    <string name="string_title_school2" translatable="false">जिल्हा परिषद प्राथमिक शाळा</string>
+    <string name="string_principal_school2" translatable="false"><br>मुख्याध्यापक:-सौ  पदमा एकनाथ सूर्यवंशी\n</br><br>मोबाइल नंबर- 9850999753</br></string>
+    <string name="string_principalNo_school2">9850999753</string><!--मोबाइल नंबर- -->
+    <string name="string_address_school2" translatable="false">स्थान : नधलवाडी</string>
+    <string name="string_description_school2" translatable="false"><br>शिक्षक : \n</br>
+<br>\n 1:सौ शारदा भगवान शिंदे        \n</br>
+<br>    मोबाइल नंबर-9327814051 \n</br>
+<br>\n  2:श्री संतोष शिंदे                   \n</br>
+<br>   मोबाइल नंबर-9890489132    \n</br>
+<br>\n 3:श्रीमती माया गायकवाड         \n</br>
+<br>   मोबाइल नंबर-9623150217     \n</br>
+<br>\n 4:श्री शिवेकर                           \n</br>
+<br>   मोबाइल नंबर-965731495       \n</br>
+</string>
+
+    <!--3rd School Done-->
+    <string name="string_title_school3">जिल्हा परिषद प्राथमिक शाळा कोयतेवस्ती</string>
+    <string name="string_principal_school3"><br>मुख्याध्यापक:-श्री सुरेश शंकर पाटील\n</br><br>मोबाइल नंबर- 9823446597</br></string>
+    <string name="string_principalNo_school3">9823446597</string>
+    <string name="string_address_school3">स्थान : कोयतेवस्ती</string>
+    <string name="string_description_school3"><br>शिक्षक : \n</br>
+<br>\n 1:सौ मंगला हनुमंत चव्हाण   \n</br>
+<br>   मोबाइल नंबर-9823446597  \n</br>
+</string>
+
+
+    <!--4th School Done-->
+    <string name="string_title_school4">जिल्हा परिषद प्राथमिक शाळा</string>
+    <string name="string_principal_school4"><br>मुख्याध्यापक:-सौ सुशिला मारुती केंगले\n</br><br>मोबाइल नंबर- 9822647409</br></string>
+    <string name="string_principalNo_school4">9822647409</string>
+    <string name="string_address_school4">स्थान :मिंडेवाडी</string>
+    <string name="string_description_school4"><br>शिक्षक : \n</br>
+<br>\n 1:सौ निलम संदीप वारे           \n</br>
+<br>   मोबाइल नंबर- 9860635449 \n</br>
+</string>
+
+    <!--5th School Done-->
+    <string name="string_title_school5">जिल्हा परिषद प्राथमिक शाळा</string>
+    <string name="string_principal_school5"><br>मुख्याध्यापक:-सौनयना सुधाकर गवळी\n</br><br>मोबाइल नंबर- 7588191441</br></string>
+    <string name="string_principalNo_school5">7588191441</string>
+    <string name="string_address_school5">स्थान :मिंडेवाडी tha.wa</string>
+    <string name="string_description_school5"><br>शिक्षक : \n</br>
+<br>\n 1:-किसन तुकाराम सतपुते  \n</br>
+<br>   मोबाइल नंबर-865848380 \n</br>
+</string>
+
+
+    <!--6th School Done-->
+    <string name="string_title_school6">जिल्हा परिषद प्राथमिक शाळा</string>
+    <string name="string_principal_school6"><br>मुख्याध्यापक:-श्री शामराव यशवंत सावंत\n</br><br>मोबाइल नंबर- 9881957385</br></string>
+    <string name="string_principalNo_school6">9881957385</string>
+    <string name="string_address_school6">स्थान :मिंडेवाडी (परिटवाडी)</string>
+    <string name="string_description_school6"><br>शिक्षक : \n</br>
+<br>\n 1:-श्री भरत पांडुरंग शेटे  \n</br>
+<br>   मोबाइल नंबर-9923697255 \n</br>
+</string>
+
+    <!--7th School Done-->
+    <string name="string_title_school7">जिल्हा परिषद प्राथमिक शाळा</string>
+    <string name="string_principal_school7"><br>मुख्याध्यापक:- सौ वर्षा विलास राजे\n</br><br>मोबाइल नंबर- 9637613789</br></string>
+    <string name="string_principalNo_school7">9637613789</string>
+    <string name="string_address_school7">स्थान :जाधववाडी</string>
+    <string name="string_description_school7"><br>शिक्षक : \n</br>
+<br>\n 1:-सौ संगीता संतोष नवले  \n</br>
+<br>   मोबाइल नंबर-9763659356 \n</br>
+</string>
+
+    <!--8th School Done-->
+    <string name="string_title_school8">जिल्हा परिषद प्राथमिक शाळा</string>
+    <string name="string_principal_school8"><br>मुख्याध्यापक:- श्री आत्माराम मारुती डोके\n</br><br>मोबाइल नंबर- 9767455223</br></string>
+    <string name="string_principalNo_school8">9767455223</string>
+    <string name="string_address_school8">स्थान :चावसरवस्ती</string>
+    <string name="string_description_school8"><br>शिक्षक : \n</br>
+<br>\n 1:- श्री अरुण राजाराम आहेर  \n</br>
+<br>   मोबाइल नंबर-8796801767 \n</br>
+</string>
+
+
+    <!--9th School Done-->
+    <string name="string_title_school9">जिल्हा परिषद प्राथमिक शाळा</string>
+    <string name="string_principal_school9"><br>मुख्याध्यापक:- वैशाली सुरेशराव दीक्षित\n</br><br>मोबाइल नंबर- 7218050839</br></string>
+    <string name="string_principalNo_school9"> 9823446597</string>
+    <string name="string_address_school9">स्थान :शेटेवस्ती</string>
+    <string name="string_description_school9"><br>शिक्षक : \n</br>
+<br>\n 1:-श्री संतोष इंदाराम शेटे  \n</br>
+<br>   मोबाइल नंबर-9922122044 \n</br>
+</string>
+
+
+    <!--10th School Done-->
+    <string name="string_title_school10">जिल्हा परिषद प्राथमिक शाळा</string>
+    <string name="string_principal_school10"><br>मुख्याध्यापक:-सौ अंजीर विश्वंबर डोंगरे\n</br><br>मोबाइल नंबर- 9623271249</br></string>
+    <string name="string_principalNo_school10">9623271249</string>
+    <string name="string_address_school10">स्थान :बालवाडी</string>
+    <string name="string_description_school10"><br>शिक्षक : \n</br>
+<br>\n 1:-श्री हिरामण गेणभाऊ बधाले  \n</br>
+<br>   मोबाइल नंबर-9762941439 \n</br>
+</string>
+
+
+</resources>
